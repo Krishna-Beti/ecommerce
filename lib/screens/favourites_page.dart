@@ -6,8 +6,7 @@ import 'package:ecommerce/screens/registration_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:http/http.dart' as http;
-import 'package:google_fonts/google_fonts.dart'
-;
+import 'package:google_fonts/google_fonts.dart';
 import 'package:shimmer/shimmer.dart';
 import '../modalclasses/likes.dart';
 import '../modalclasses/products.dart';
